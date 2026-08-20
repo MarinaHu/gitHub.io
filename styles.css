@@ -171,7 +171,7 @@ h3 {
 
 .snapshot p {
   display: grid;
-  grid-template-columns: 92px 1.7fr;
+  grid-template-columns: 92px 1fr;
   align-items: baseline;
   gap: 14px;
   margin: 0;
